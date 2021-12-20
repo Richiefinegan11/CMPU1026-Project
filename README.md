@@ -1,1 +1,1 @@
-# CMPU1026-Project
+# CMPU1026-Project - Income Predictor
